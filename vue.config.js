@@ -15,7 +15,6 @@ module.exports = {
     },
   },
   lintOnSave: false,
-
   // 自定义webpack配置
   configureWebpack: {
     output: {
